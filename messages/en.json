@@ -1,0 +1,87 @@
+{
+    "navbar": {
+      "Home": "Home",
+      "Aboutus": "Aboutus",
+      "Service": "Service",
+      "Tools": "Tools",
+      "whypuls": "Why puls",
+      "Contact": "Contact",
+      "lang": "العربية",
+      "button": "Contact"
+    },
+    "Banner": {
+      "title": "Experience your ultimate mobile application",
+      "descrption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "button": "Contact"
+    },
+    "aboutUs": {
+      "title": "WHAT IS PULES AND WHAT WE CAN DO",
+      "descrption": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Why do we use it? It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "Head": "ABOUT US"
+    },
+    "ourServices": {
+      "head": "WHAT WE CAN DO",
+      "title": "OUR SERVICES",
+      "0": {
+        "title": "Integrated Digital Solutions",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "color": "bg-[#03FFE6] md:py-5",
+        "icon": "Integrated"
+      },
+      "1": {
+        "title": "Digital Marketing",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "color": "bg-[#463BF7]",
+        "icon": "Digital"
+      },
+      "2": {
+        "title": "Web & App Development",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "color": "bg-[#E462CC]",
+        "icon": "Web"
+      }
+    },
+    "whyPulse": {
+      "title": "why PULES",
+      "descrption": "HERE IN PULES WE DO EVERY THING IN HIGHT QUALITY",
+      "0": {
+        "title": "Title Here 1",
+        "descrption": "Get your blood tests delivered at let home collect sample from the victory of the managments.your blood tests."
+      },
+      "1": {
+        "title": "Title Here 1",
+        "descrption": "Get your blood tests delivered at let home collect sample from the victory of the managments.your blood tests."
+      }
+    },
+    "CoreFeatures": {
+      "title": "SMART TOOLS & RESOURCE TO CREATE SMART SOLUTIONS",
+      "descrption": "Get your tests delivered at let home collect sample from the victory of the managments that supplies best design system guidelines ever. Get your tests delivered at let home collect sample.",
+      "head": "CORE FEATURES"
+    },
+    "Contact": {
+      "head": "LET’S TALK",
+  
+      "inputs": {
+        "name": "YOUR NAME",
+        "email": "Your Email",
+        "detalis": "DETAILS"
+      },
+      "send": { "title": "Feel free to send us", "button": "Send" }
+    },
+    "footer": {
+      "about": {
+        "title": "Useful Links",
+        "0": "About Us",
+        "1": "Social Media",
+        "2": "Copyright"
+      },
+      "Contact": {
+        "title": "Contact Us",
+        "Address": "Address: Amman.Jordan",
+        "Phone": "Phone: +962000000000",
+        "email": "email: info@pulsedp.com"
+      },
+      "Copyright": " Copyright © 2010-2023 d-crests Company S.L. All rights reserved."
+    }
+  }
+  
